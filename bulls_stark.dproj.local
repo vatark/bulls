@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/02 15:27:46.000.834,=C:\Users\eeriw\Documents\Embarcadero\Studio\Projets\Unit3.pas</Transaction>
+    <Transaction>2017/05/16 16:15:23.000.551,=C:\Users\eeriw\Documents\Embarcadero\Studio\Projets\Unit3.pas</Transaction>
+    <Transaction>2017/05/16 16:22:25.000.689,C:\Users\eeriw\Documents\Embarcadero\Studio\Projets\Unit3.dfm=C:\Users\eeriw\Documents\Embarcadero\Studio\Projets\bulls\Unit3.dfm</Transaction>
+    <Transaction>2017/05/16 16:22:25.000.689,C:\Users\eeriw\Documents\Embarcadero\Studio\Projets\Unit3.pas=C:\Users\eeriw\Documents\Embarcadero\Studio\Projets\bulls\Unit3.pas</Transaction>
+    <Transaction>2017/05/16 16:46:00.000.575,C:\Users\eeriw\Documents\Embarcadero\Studio\Projets\Project3.dproj=C:\Users\eeriw\Documents\Embarcadero\Studio\Projets\bulls\Project3.dproj</Transaction>
+    <Transaction>2017/05/23 15:19:34.824,C:\Users\eeriw\Documents\Embarcadero\Studio\Projets\bulls\bulls.dproj=C:\Users\eeriw\Documents\Embarcadero\Studio\Projets\bulls\Project3.dproj</Transaction>
+    <Transaction>2017/05/23 17:45:02.556,C:\Users\eeriw\Documents\Embarcadero\Studio\Projets\bulls\bulls_stark.dproj=C:\Users\eeriw\Documents\Embarcadero\Studio\Projets\bulls\bulls.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
